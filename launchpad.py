@@ -2,9 +2,6 @@ import streamlit as st
 import base64
 import datetime
 import io
-from pptx import Presentation
-from pptx.util import Inches, Pt
-from pptx.enum.shapes import MSO_SHAPE
 
 st.set_page_config(page_title="Startup Validator", layout="wide")
 
